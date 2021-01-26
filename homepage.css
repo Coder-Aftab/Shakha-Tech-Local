@@ -135,10 +135,7 @@ body {
 /*logoimage8 */
 
 .imglogo {
-    border-radius: 100px;
-    width: 5%;
-    vertical-align: middle;
-    display: flex;
+    border-radius: 20px;
 }
 
 .aligned {
